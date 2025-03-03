@@ -7,5 +7,5 @@ def print_items(n):
     for i in range(n):
         print(f"item kedua: {i}")  
 
-# Memanggil fungsi dengan n = 5
+# Memanggil fungsi dengan n = 4
 print_items(4)
