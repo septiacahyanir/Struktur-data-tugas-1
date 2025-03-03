@@ -3,8 +3,8 @@ def print_items(n):
     for i in range(n):
         print(f"Item O(n): {i}")  
 
-    # Bagian O(n)
-    for i in range(n²):
+    # Bagian O(n²)
+    for i in range(n):
         for j in range(n):
             print(f"Item O(n²): {i}, {j}")  
             
